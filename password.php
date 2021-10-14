@@ -1,3 +1,3 @@
 <?php
-echo "Sau khi fix đc password"
+echo "fdsfsdfsdfsSau khi fix đc passwordfdsfsdfsdfsdfsdnois đi nào em"
 ?>
